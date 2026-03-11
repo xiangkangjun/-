@@ -1,1 +1,4 @@
-xiangkangjun，weijiali，
+{
+  "allowed_users": ["xiangkangjun", "weijiali"]
+  
+}
