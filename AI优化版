@@ -9,7 +9,7 @@
     "weijiali": {
       "allowed_days": [1, 2, 3, 4, 5, 6, 7],
       "start_time": "19:30",
-      "end_time": "23:59"
+      "end_time": "09:00"
     },
     "*default": {
       "start_time": "00:00",
