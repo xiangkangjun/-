@@ -1,0 +1,20 @@
+{
+  "global_switch": true,
+  "allowed_users": ["test_user1", "test_user2"],
+  
+  "groups": {
+    "work_hours_restricted_group": {
+      "users": ["test_user1", "test_user2"],
+      "forbidden_times": [
+        {
+          "deny_days": [1, 2, 3, 4],
+          "time_ranges": ["09:00-19:30"]
+        },
+        {
+          "deny_days": [5],
+          "time_ranges": ["09:00-18:30"]
+        }
+      ]
+    }
+  }
+}
