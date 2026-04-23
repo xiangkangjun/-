@@ -69,7 +69,7 @@
   "groups": {
     "work_hours_restricted_group": {
       "users": [
-        
+         "liyiqing",
       ],
       "forbidden_times": [
         {
