@@ -11,29 +11,76 @@
     "sunhan",
     "wangzimo",
     "shiliting",
-    "yaoluqin", 
+    "yaoluqin",
     "liuloulou",
     "qiwensi",
     "linying",
     "xieqiaoling",
     "aohuifang",
     "chengxinyi",
-    "limiaomiao", 
-    "weijiali"
+    "limiaomiao",
+    "weijiali",
+    "zhangsan",
+    "wangmuying",
+    "limengxin",
+    "liangjiami",
+    "zhoujiayuan",
+    "huangyuxin",
+    "huyu",
+    "liuzhi1",
+    "huhaoqin",
+    "zhangxun",
+    "kanglijun",
+    "wangyuting2",
+    "wangtong",
+    "wuhaixian",
+    "xulou",
+    "duanyongqi",
+    "gaoyu1",
+    "lixinyi",
+    "huangmengtao",
+    "shiyunjie",
+    "xuxiaomeng",
+    "zhengyang",
+    "wangyushi",
+    "chenglizhe",
+    "linli1",
+    "xulu",
+    "wuyuqin",
+    "liyiqing",
+    "liuhui3",
+    "huangchen1",
+    "guiyinuo",
+    "luoyifen",
+    "huangli2",
+    "xiaoyan3",
+    "jiaoyuqian",
+    "wangwei5",
+    "niziting",
+    "wangyaling",
+    "zhouruojing",
+    "luoyouping",
+    "wenkaicheng",
+    "fanxiaojuan",
+    "zhouting2",
+    "kangjia",
+    "yuanniu",
+    "xusujuan",
+    "wangxiaojie",
+    "zouliuyang",
+    "lixinyi"
   ],
   "groups": {
     "work_hours_restricted_group": {
-      "users": [
-         
-      ],
+      "users": [],
       "forbidden_times": [
         {
           "deny_days": [1, 2, 3, 4],
-          "time_ranges": ["09:00-19:30"]
+          "time_ranges": ["09:00-09:30"]
         },
         {
           "deny_days": [5],
-          "time_ranges": ["09:00-18:30"]
+          "time_ranges": ["09:00-09:30"]
         }
       ]
     }
