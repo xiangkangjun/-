@@ -3,11 +3,29 @@
   "message": "系统正常运行",
   "allowed_users": [
     "xiangkangjun",
-    "weijiali",
+    "zhoujiayuan",
     "chengxinyi",
-    "wangmuying",
+    "huhaoqin",
+    "zhangxun",
+    "wangxiaojie",
     "limiaomiao",
-    "huhaoqin"
+    "weijiali",
+    "duanyongqi",
+    "kangjia",
+    "zhouting2",
+    "fanxiaojuan",
+    "liujianyi",
+    "wujingwen",
+    "wuyi2",
+    "niewenli",
+    "wangtong",
+    "yuwenjian",
+    "zhanjiawei",
+    "jiangzhenke",
+    "yuling1",
+    "zoule",
+    "yangxuemei",
+    "wangmuying"
   ],
   "time_limits": {
     "zhangsan": {
