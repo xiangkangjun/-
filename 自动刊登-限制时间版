@@ -101,11 +101,12 @@
   ],
   "groups": {
     "work_hours_restricted_group": {
-      "users": [],
+      "users": [
+      ],
       "forbidden_times": [
         {
           "deny_days": [1, 2, 3, 4],
-          "time_ranges": ["09:00-09:30"]
+          "time_ranges": ["09:00-19:30"]
         },
         {
           "deny_days": [5],
